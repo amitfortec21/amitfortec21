@@ -69,6 +69,6 @@
   <p><strong>Basic ReactApp Hosting &emsp; <a href="https://amitfortec21.github.io/host-app">Live</a> &emsp; <a href="https://github.com/amitfortec21/host-app">Repository</a></strong></p>
   <p><strong>Basic ViteApp Hosting &emsp; <a href="https://amitfortec21.github.io/hosting-vite">Live</a> &emsp; <a href="https://github.com/amitfortec21/hosting-vite">Repository</a></strong></p>
   <p><strong>CRUD MERN &emsp; <a href="https://github.com/amitfortec21">Live</a> &emsp; <a href="https://github.com/amitfortec21/crud-mern">Repository</a></strong></p>
-  <p><strong>Quiz MERN Hosting &emsp; <a href="https://github.com/amitfortec21">Live</a> &emsp; <a href="https://github.com/amitfortec21/quiz-mern">Repository</a></strong></p>
+  <p><strong>Quiz MERN &emsp; <a href="https://github.com/amitfortec21">Live</a> &emsp; <a href="https://github.com/amitfortec21/quiz-mern">Repository</a></strong></p>
   <p><strong>CMS_Admin MERN &emsp; <a href="https://github.com/amitfortec21">Live</a> &emsp; <a href="https://github.com/amitfortec21/cms-admin-mern">Repository</a></strong></p>
 </div>
