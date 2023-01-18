@@ -53,7 +53,7 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div>  <br/>
 
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td>
@@ -61,7 +61,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <div>
   <h1>My Projects</h1>
