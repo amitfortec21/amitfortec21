@@ -72,4 +72,5 @@
   <p><strong>Quiz MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/quiz-mern">Repository</a></strong></p>
   <p><strong>CMS Admin MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/cms-admin-mern">Repository</a></strong></p>
   <p><strong>Voting MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/voting-mern">Repository</a></strong></p>
+  <p><strong>Instagram Clone MERN &emsp; <a href="">Live</a> &emsp; <a href="https://github.com/amitfortec21/instagram-clone-mern">Repository</a></strong></p>
 </div>
